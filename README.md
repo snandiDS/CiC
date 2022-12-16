@@ -4,7 +4,7 @@ This package is to create some special cases of Euler diagram. This package crea
 
 Limitation: This package should not be used to create venn diagrams, as it will not represent the overlaps/intersections between two sets.
 
-The package is built on Arch: x86_64 bit system; OS: RedHat based (Fedora release 36); and Language: Python (3.9.7) and C.
+The package is built on Arch: x86\_64 bit system; OS: RedHat based (Fedora release 36); and Language: Python (3.9.7) and C.
 
 
 Implementation:
